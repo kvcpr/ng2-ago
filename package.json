@@ -1,0 +1,30 @@
+{
+  "name": "ng2-ago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacepe/ng2-ago.git"
+  },
+  "keywords": [
+    "angular2",
+    "time ago",
+    "pipe"
+  ],
+  "author": "Kacper Polak - https://github.com/kacepe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kacepe/ng2-ago/issues"
+  },
+  "homepage": "https://github.com/kacepe/ng2-ago#readme",
+  "devDependencies": {
+    "@angular/common": "^2.4.6",
+    "@angular/core": "^2.4.6",
+    "rxjs": "^5.1.0",
+    "typescript": "^2.1.5",
+    "zone.js": "^0.7.6"
+  }
+}

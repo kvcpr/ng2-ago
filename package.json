@@ -1,7 +1,7 @@
 {
   "name": "ng2-ago",
-  "version": "1.0.11",
-  "description": "",
+  "version": "1.0.12",
+  "description": "ng2-ago is a Angular 2 Pipe that makes it easy to support automatically updating fuzzy timestamps (e.g. \"4 minutes ago\" or \"about 1 day ago\").",
   "main": "index.js",
   "scripts": {
   },

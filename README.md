@@ -1,4 +1,5 @@
 # ng2-ago
+ng2-ago is a Angular 2 Pipe that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago" or "about 1 day ago").
 
 # Installation
 1. Install package with npm:

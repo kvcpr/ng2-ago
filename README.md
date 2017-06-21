@@ -1,3 +1,6 @@
+# Outdated
+This package is outdated and doesn't support angular 4. I recommend to use moment.js.
+
 # ng2-ago
 ng2-ago is a Angular 2 Pipe that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago" or "about 1 day ago").
 
